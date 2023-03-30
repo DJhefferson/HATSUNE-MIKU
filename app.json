@@ -1,5 +1,5 @@
 {
-  "name": "HATSUNE-MIKU",
+  "name": "DANNY-JHEFFERSON",
   "website": "https://github.com/HATSUNE-MIKU.git",
   "description": "Super Bot WhatsApp",
   "repository": "https://github.com/OFC-YOVANI/HATSUNE-MIKU.git",
@@ -19,8 +19,7 @@
     "md",
     "whatsappbot",
     "oficial",
-    "whatsapp-md",
-    "HADES-BOT-MDbot",
+    "whatsapp-md"
     "miku-bot",
     "HADES-BOT-MD-bot-md"],
   "image": "heroku/nodejs",
